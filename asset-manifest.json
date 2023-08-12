@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salari/static/css/main.31ef0c1b.css",
+    "main.js": "/salari/static/js/main.c53850e0.js",
+    "static/js/787.71eb7fe7.chunk.js": "/salari/static/js/787.71eb7fe7.chunk.js",
+    "index.html": "/salari/index.html",
+    "main.31ef0c1b.css.map": "/salari/static/css/main.31ef0c1b.css.map",
+    "main.c53850e0.js.map": "/salari/static/js/main.c53850e0.js.map",
+    "787.71eb7fe7.chunk.js.map": "/salari/static/js/787.71eb7fe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ef0c1b.css",
+    "static/js/main.c53850e0.js"
+  ]
+}
